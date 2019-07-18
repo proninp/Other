@@ -1,0 +1,9 @@
+C:\Users\ppronin\source\repos\RdlParse\RdlParse\bin\Debug\RdlParse.exe.config
+C:\Users\ppronin\source\repos\RdlParse\RdlParse\bin\Debug\RdlParse.exe
+C:\Users\ppronin\source\repos\RdlParse\RdlParse\bin\Debug\RdlParse.pdb
+C:\Users\ppronin\source\repos\RdlParse\RdlParse\obj\Debug\RdlParse.csprojAssemblyReference.cache
+C:\Users\ppronin\source\repos\RdlParse\RdlParse\obj\Debug\RdlParse.csproj.CoreCompileInputs.cache
+C:\Users\ppronin\source\repos\RdlParse\RdlParse\obj\Debug\RdlParse.exe
+C:\Users\ppronin\source\repos\RdlParse\RdlParse\obj\Debug\RdlParse.pdb
+C:\Users\ppronin\source\repos\RdlParse\RdlParse\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\ppronin\source\repos\RdlParse\RdlParse\obj\Debug\RdlParse.csproj.CopyComplete
