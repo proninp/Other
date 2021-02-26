@@ -1,0 +1,7 @@
+C:\Users\proninps\source\repos\BicImport\BicImport\bin\Debug\BicImport.dll
+C:\Users\proninps\source\repos\BicImport\BicImport\bin\Debug\BicImport.pdb
+C:\Users\proninps\source\repos\BicImport\BicImport\bin\Debug\BicImport.tlb
+C:\Users\proninps\source\repos\BicImport\BicImport\obj\Debug\BicImport.csproj.CoreCompileInputs.cache
+C:\Users\proninps\source\repos\BicImport\BicImport\obj\Debug\BicImport.dll
+C:\Users\proninps\source\repos\BicImport\BicImport\obj\Debug\BicImport.pdb
+C:\Users\proninps\source\repos\BicImport\BicImport\obj\Debug\BicImport.csprojAssemblyReference.cache
