@@ -5,3 +5,10 @@ C:\Users\proninps\source\repos\BicImport\BicImport\obj\Debug\BicImport.csproj.Co
 C:\Users\proninps\source\repos\BicImport\BicImport\obj\Debug\BicImport.dll
 C:\Users\proninps\source\repos\BicImport\BicImport\obj\Debug\BicImport.pdb
 C:\Users\proninps\source\repos\BicImport\BicImport\obj\Debug\BicImport.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\Git\Other\BicImport\BicImport\bin\Debug\BicImport.dll
+C:\Users\Paul\source\repos\Git\Other\BicImport\BicImport\bin\Debug\BicImport.pdb
+C:\Users\Paul\source\repos\Git\Other\BicImport\BicImport\obj\Debug\BicImport.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\Git\Other\BicImport\BicImport\obj\Debug\BicImport.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Git\Other\BicImport\BicImport\obj\Debug\BicImport.dll
+C:\Users\Paul\source\repos\Git\Other\BicImport\BicImport\obj\Debug\BicImport.pdb
+C:\Users\Paul\source\repos\Git\Other\BicImport\BicImport\bin\Debug\BicImport.tlb

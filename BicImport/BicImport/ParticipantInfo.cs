@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.Xml.Serialization;
 
@@ -36,7 +37,9 @@ namespace BicImport
         public string NPSParticipant { get; set; }
         [XmlAttribute]
         public string ParticipantStatus { get; set; }
-        [XmlElement(IsNullable = true)]
-        public RstrList RstrList { get; set; }
+        [XmlElement(ElementName = Params.RSTRLIST, IsNullable = true)]
+        public List<RstrList> RstrList { get; set; }
+        public int GetRstrListCount() => RstrList.Count;
+        public RstrList GetRstrListElement(int i) => RstrList[i];
     }
 }
