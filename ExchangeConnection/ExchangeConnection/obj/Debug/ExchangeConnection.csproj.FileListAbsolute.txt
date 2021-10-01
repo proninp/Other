@@ -1,0 +1,14 @@
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\bin\Debug\ExchangeConnection.exe.config
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\bin\Debug\ExchangeConnection.exe
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\bin\Debug\ExchangeConnection.pdb
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\obj\Debug\ExchangeConnection.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\obj\Debug\ExchangeConnection.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\obj\Debug\ExchangeConnection.csproj.CopyComplete
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\obj\Debug\ExchangeConnection.exe
+C:\Users\Paul\source\repos\Git\Other\ExchangeConnection\ExchangeConnection\obj\Debug\ExchangeConnection.pdb
